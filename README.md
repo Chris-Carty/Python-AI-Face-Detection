@@ -1,5 +1,7 @@
 Python-AI-Face-Detection
+
 AI face detection script, personal learning project.
+
 The script will detect faces in a provided image, my first attempt develping with AI technology. 
 
 Trained Data Source:
